@@ -3,20 +3,22 @@
 
 ### To run this on ur local:
 
-## a) via npm: Npm Install
-## b) .....yarn: yarn install
+a) via npm: 
+'### Npm Install
+b) .....yarn: 
+  ###yarn install
 
 
 ### Font Awesome
 
-## a) first install font-awesesome using npm
+a)font-awesesome using npm
 
-npm install --save-dev @fortawesome/fontawesome-free
+  ###npm install --save-dev @fortawesome/fontawesome-free
 
-## b) add this import in your app.js
+b) add this in your app.js
 
-import "@fortawesome/fontawesome-free/css/all.min.css";
+### import "@fortawesome/fontawesome-free/css/all.min.css";
 
-### Sass
+Sass
 
-a) via npm: npm install -g sass
+### a) via npm: npm install -g sass
