@@ -4,9 +4,9 @@
 ### To run this on ur local:
 
 a) via npm: 
-'### Npm Install
+### `Npm Install`
 b) .....yarn: 
-  ###yarn install
+  `###yarn install`
 
 ### Font Awesome
 
@@ -18,6 +18,6 @@ b) add this in your app.js
 
 ### import "@fortawesome/fontawesome-free/css/all.min.css";
 
-Sass
-
-### a) via npm: npm install -g sass
+## Sass
+ a) via npm: 
+  ### `npm install -g sass`
