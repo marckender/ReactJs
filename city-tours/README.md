@@ -8,12 +8,11 @@ a) via npm:
 b) .....yarn: 
   ###yarn install
 
-
 ### Font Awesome
 
 a)font-awesesome using npm
 
-  ###npm install --save-dev @fortawesome/fontawesome-free
+### `npm install --save-dev @fortawesome/fontawesome-free`
 
 b) add this in your app.js
 
