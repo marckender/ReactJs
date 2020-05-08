@@ -1,5 +1,5 @@
 ##### site:
-1-cityToyr App : (https://citytourproject.netlify.app/)
+1-cityTour App : (https://citytourproject.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
