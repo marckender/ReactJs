@@ -18,7 +18,6 @@ const {loading, sortedRooms, rooms}= context;
     </div>
   );
 }
-
 export default withRoomConsumer(RoomContainer)
 
 
