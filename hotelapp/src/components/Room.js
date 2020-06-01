@@ -24,7 +24,7 @@ export default function Room({room}) {
   )
 }
 
-Room.propTypes = {
+Room.propTypes = { //to have a warning on the console
   room: PropTypes.shape({
     name: PropTypes.string.isRequired,
     slug: PropTypes.string.isRequired,
