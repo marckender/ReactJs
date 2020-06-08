@@ -12,7 +12,6 @@ const {loading, sortedRooms, rooms}= context;
 
   return (
     <div>
-      hello from rooms Container
       < RoomsFilter rooms= {rooms} />
       < RoomsList rooms = {sortedRooms} />
     </div>
